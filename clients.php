@@ -49,7 +49,7 @@ function requestId($id = '')
  * System variables
  */
 define('QB_LOGIN',    'admin');
-define('QB_PASSWORD', '');
+define('QB_PASSWORD', 'admin');
 define('QB_TICKET',   '93f91a390fa604207f40e8a94d0d8fd11005de108ec1664234305e17e');
 
 /**
